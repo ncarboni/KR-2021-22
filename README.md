@@ -1,13 +1,13 @@
 
 # Cours Représentation des connaissances 2021-22 @ UNIGE
 
-## quand
+### Quand
 chaque mardi de 16h à 18h
 
-## Lieu 
+### Lieu 
 salle B 315
 
-## Code
+### Code
 32M7134
 
 
