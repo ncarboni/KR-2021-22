@@ -3,7 +3,7 @@
 
 Introduction générale au thème du cours. Focus sur l'histoire des classifications et le problème actuel de la représentation des connaissances. 
 
-Vous pouvez trouver la présentation [ici](KR1.pdf)
+Vous pouvez trouver la présentation [ici](KR1.pdf)  
 Vous pouvez trouver l'enregistrement [ici](https://mediaserver.unige.ch/play/155387)
 
 Lectures complémentaires :
