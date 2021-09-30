@@ -3,10 +3,12 @@
 
 Introduction générale au thème du cours. Focus sur l'histoire des classifications et le problème actuel de la représentation des connaissances. 
 
-Vous pouvez trouver la présentation [ici](KR1.pdf)  
-Vous pouvez trouver l'enregistrement [ici](https://mediaserver.unige.ch/play/155387)
+### Revoir la séance
 
-Lectures complémentaires :
+- Vous pouvez trouver la présentation [ici](KR1.pdf)  
+- Vous pouvez trouver l'enregistrement de la séance [ici](https://mediaserver.unige.ch/play/155387)
+
+### Lectures complémentaires
 
 - [Chapter 2 "Ontology" from: Sowa, John F. Knowledge representation: logical, philosophical and computational foundations. Brooks/Cole Publishing Co., 1999. ](https://drive.switch.ch/index.php/s/qqOd30cYDV5X7wk)
 - Varzi, Achille C. Ontologie. Paris: les Ed. d’Ithaque, 2010. Print.
