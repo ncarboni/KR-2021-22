@@ -17,10 +17,6 @@ Focus sur la modélisation et le web sémantique
 - [Chapter 2 from: DuCharme, Bob. Learning SPARQL: querying and updating with SPARQL 1.1. " O'Reilly Media, Inc.", 2013.](https://drive.switch.ch/index.php/s/rPhcQA3gi0qI8Pk)
 
 
-Good morning, 
-We would need another salle only for the session of Friday 08/10 October. In case nothing is available in Uni-Dufour, no problem, we will stay in the same salle
-Cordialement, 
-
 
 
 
