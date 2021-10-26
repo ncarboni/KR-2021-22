@@ -8,3 +8,9 @@ Focus sur la modélisation et le web sémantique. Exercices de modélisation et 
 - Vous pouvez trouver la présentation [ici](KR3.pdf) 
 - Vous pouvez trouver l'enregistrement de la séance [ici](https://moodle.unige.ch/mod/mediaserver/view.php?id=522973)
 
+
+
+
+
+
+
