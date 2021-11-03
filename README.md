@@ -1,6 +1,8 @@
 
 # Cours Représentation des connaissances 2021-22 @ UNIGE
 
+[https://ncarboni.github.io/KR-2021-22/](https://ncarboni.github.io/KR-2021-22/)
+
 ### Quand
 chaque mardi de 16h à 18h
 
