@@ -24,7 +24,7 @@ Dans la première leçon du cours vous apprendrez
 
 ### Revoir la séance
 
-- Vous pouvez trouver le PDF de la présentation [ici](slides/KR1.pdf)  
+- Vous pouvez trouver le PDF de la présentation [ici](../slides/KR1.pdf)  
 - Vous pouvez trouver l'enregistrement de la séance [ici](https://mediaserver.unige.ch/play/155387)
 
 ### Lectures complémentaires

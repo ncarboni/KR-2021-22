@@ -26,7 +26,7 @@ Au cours de la cinquième leçon, nous nous concentrons sur :
 
 ### Revoir la séance
 
-- Vous pouvez trouver la présentation [ici](slides/KR5.pdf) 
+- Vous pouvez trouver la présentation [ici](../slides/KR5.pdf) 
 - Vous pouvez trouver l'enregistrement de la séance [ici](https://mediaserver.unige.ch/play/159503)
 
 

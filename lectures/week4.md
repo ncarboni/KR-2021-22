@@ -27,6 +27,6 @@ Au cours de la quatrième leçon, nous nous concentrons sur :
 
 ### Revoir la séance
 
-- Vous pouvez trouver la présentation [ici](slides/KR4.pdf) 
+- Vous pouvez trouver la présentation [ici](../slides/KR4.pdf) 
 - L'exercice de modélisation est partagé avec vous tous sur Miro. Envoyez-moi un e-mail si vous ne réussissez pas à y accéder.
 - Malheureusement, l'enregistrement vidéo de cette session n'est pas disponible.

@@ -25,7 +25,7 @@ Au cours de la deuxième leçon, nous nous concentrerons sur :
 
 ### Revoir la séance
 
-- Vous pouvez trouver la présentation [ici](slides/KR2.pdf) 
+- Vous pouvez trouver la présentation [ici](../slides/KR2.pdf) 
 - Vous pouvez trouver l'enregistrement de la séance [ici](https://mediaserver.unige.ch/play/156498)
 
 
