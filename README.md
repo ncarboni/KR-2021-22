@@ -4,7 +4,7 @@
 ### Quand
 chaque mardi de 16h à 18h
 
-### Lieu 
+### Lieu
 salle B 315
 
 ### Code
