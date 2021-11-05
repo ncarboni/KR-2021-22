@@ -161,10 +161,10 @@
     "url": "http://localhost:4000/KR-2021-22/seance/week5-data-and-ontologies",
     "relUrl": "/seance/week5-data-and-ontologies"
   },"27": {
-    "doc": "Week 6 - Extension des ontologies",
-    "title": "Week 6 - Extension des ontologies",
-    "content": "Objectifs: . Revoir la séance . | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . ",
-    "url": "http://localhost:4000/KR-2021-22/seance/week6-extension-des-ontologies",
-    "relUrl": "/seance/week6-extension-des-ontologies"
+    "doc": "Week 6 - Ontological patterns",
+    "title": "Week 6 - Ontological patterns",
+    "content": "Objectifs: . Dans cette sixième leçon, nous verrons : . | Les résultats de l’exercice de modélisation . | Première rencontre avec SPARQL : trouver les données modélisées | . | Conception de l’ontologie : type de relation . | Simmétrique | Assymétrique | Inversé | Composite | . | Conception de l’ontologie : modèles | CIDOC-CRM : Première étape dans les CRM . | Extrapoler les modèles à partir des CRM : Modèles de données sémantiques de référence | . | . Revoir la séance . | Vous pouvez trouver le PDF de la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week6-ontological-patterns",
+    "relUrl": "/seances/week6-ontological-patterns"
   }
 }
