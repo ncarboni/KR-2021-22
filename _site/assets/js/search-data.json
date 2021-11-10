@@ -79,13 +79,13 @@
   },"13": {
     "doc": "Calendrier",
     "title": "Introduction au Web Sémantique",
-    "content": "Sep 28 Introduction générale Slides, Video Oct 5 Pourquoi la modélisation Slides, Video Oct 12 RDF premiers pas Slides, Video Oct 19 RDF and RDFS Slides Oct 26 Modélisation des données et ontologies Slides, Video Nov 9 Extension des ontologies Slides, Video ",
+    "content": "Sep 28 Introduction générale Slides, Video Oct 5 Pourquoi la modélisation Slides, Video Oct 12 RDF premiers pas Slides, Video Oct 19 RDF and RDFS Slides Oct 26 Modélisation des données et ontologies Slides, Video Nov 9 Protégé et ontologies Video ",
     "url": "http://localhost:4000/KR-2021-22/calendar/#introduction-au-web-s%C3%A9mantique",
     "relUrl": "/calendar/#introduction-au-web-sémantique"
   },"14": {
     "doc": "Calendrier",
     "title": "Réutilisation des données",
-    "content": "Nov 23 Interrogation des données : SPARQL Slides, Video Dic 7 Transformation des données I Slides, Video Dic 14 Transformation des données II Slides, Video ",
+    "content": "Nov 23 La modélisation des données dans les sciences humaines : CIDOC-CRM Slides, Video Dic 7 Interrogation des données : SPARQL Slides, Video Dic 14 Transformation des données I Slides, Video ",
     "url": "http://localhost:4000/KR-2021-22/calendar/#r%C3%A9utilisation-des-donn%C3%A9es",
     "relUrl": "/calendar/#réutilisation-des-données"
   },"15": {
@@ -166,5 +166,17 @@
     "content": "Objectifs: . Dans cette sixième leçon, nous verrons : . | Les résultats de l’exercice de modélisation . | Première rencontre avec SPARQL : trouver les données modélisées | . | Conception de l’ontologie : type de relation . | Simmétrique | Assymétrique | Inversé | Composite | . | Conception de l’ontologie : modèles | CIDOC-CRM : Première étape dans les CRM . | Extrapoler les modèles à partir des CRM : Modèles de données sémantiques de référence | . | . Revoir la séance . | Vous pouvez trouver le PDF de la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week6-ontological-patterns",
     "relUrl": "/seances/week6-ontological-patterns"
+  },"28": {
+    "doc": "Week 6 - Protégé",
+    "title": "Week 6 - Protégé",
+    "content": "Objectifs: . Dans cette sixième leçon, nous verrons : . | Protégé : comment l’utiliser pour créer une ontologie de base | Créer des instances et leur attribuer des propriétés | . Revoir la séance . | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week6-protege",
+    "relUrl": "/seances/week6-protege"
+  },"29": {
+    "doc": "Week 7 - CIDOC-CRM",
+    "title": "Week 7 - CIDOC-CRM",
+    "content": "Objectifs: . Dans cette septième leçon, nous verrons : . | Les résultats de l’exercice de modélisation | Introduction à CIDOC-CRM : modélisation événementielle vs modélisation binaire | Conception de l’ontologie : type de relation . | Simmétrique | Assymétrique | Inversé | Composite | . | CRM patterns : événements | CRM patterns : temps | CRM patterns : objets phisiques | Extensions CRM: CRMdig, CRMgeo, CRMtex | Linked.art | . Revoir la séance . | Vous pouvez trouver le PDF de la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . | Bruseker, George, Nicola Carboni, and Anaïs Guillem. “Cultural heritage data management: the role of formal ontology and CIDOC CRM.” Heritage and Archaeology in the Digital Age (2017): 93-131. | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week7-ontological-patterns-crm",
+    "relUrl": "/seances/week7-ontological-patterns-crm"
   }
 }

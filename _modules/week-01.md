@@ -23,7 +23,7 @@ Oct 26
   : [Slides](../slides/KR5.pdf), [Video](https://mediaserver.unige.ch/play/159503)
 
 Nov 9
-: [Extension des ontologies](#)
-  : [Slides](#), [Video](#)
+: [Protégé et ontologies](#)
+  : [Video](https://mediaserver.unige.ch/play/161301)
 
 
