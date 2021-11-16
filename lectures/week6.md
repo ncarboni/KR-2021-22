@@ -17,7 +17,7 @@ Dans cette sixième leçon, nous verrons :
 
 ### Revoir la séance
  
-- Vous pouvez trouver l'enregistrement de la séance [ici](#)
+- Vous pouvez trouver l'enregistrement de la séance [ici](https://mediaserver.unige.ch/play/161301)
 
 ### Lectures complémentaires
 
