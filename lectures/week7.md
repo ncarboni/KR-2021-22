@@ -26,8 +26,7 @@ Dans cette septième leçon, nous verrons :
 
 ### Revoir la séance
 
-- Vous pouvez trouver le PDF de la présentation [ici](#)  
-- Vous pouvez trouver l'enregistrement de la séance [ici](#)
+
 
 ### Lectures complémentaires
 
