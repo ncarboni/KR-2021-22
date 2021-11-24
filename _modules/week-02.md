@@ -6,12 +6,12 @@ title: Réutilisation des données
 
 Nov 23
 : [La modélisation des données dans les sciences humaines : CIDOC-CRM](#)
-  : [Slides](#), [Video](#)
+  : [Slides](../slides/KR7.pdf), [Video](https://mediaserver.unige.ch/play/163056)
 
 Dic 7
-: [Interrogation des données : SPARQL](#)
+: [Transformation des données I](#)
   : [Slides](#), [Video](#)
 
 Dic 14
-: [Transformation des données I](#)
+: [Interrogation des données : SPARQL](#)
   : [Slides](#), [Video](#)
