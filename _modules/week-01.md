@@ -23,7 +23,7 @@ Oct 26
   : [Slides](../slides/KR5.pdf), [Video](https://mediaserver.unige.ch/play/159503)
 
 Nov 9
-: [Protégé et ontologies](#)
+: [Protégé et ontologies](../seances/week6-protege)
   : [Video](https://mediaserver.unige.ch/play/161301)
 
 

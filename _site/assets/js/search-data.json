@@ -85,7 +85,7 @@
   },"14": {
     "doc": "Calendrier",
     "title": "Réutilisation des données",
-    "content": "Nov 23 La modélisation des données dans les sciences humaines : CIDOC-CRM Slides, Video Dic 7 Interrogation des données : SPARQL Slides, Video Dic 14 Transformation des données I Slides, Video ",
+    "content": "Nov 23 La modélisation des données dans les sciences humaines : CIDOC-CRM Slides, Video Nov 30 Interrogation des données : SPARQL Slides, Video Dic 7 Transformation des données I Slides, Video Dic 14 ransformation des données II Slides, Video ",
     "url": "http://localhost:4000/KR-2021-22/calendar/#r%C3%A9utilisation-des-donn%C3%A9es",
     "relUrl": "/calendar/#réutilisation-des-données"
   },"15": {
@@ -161,22 +161,58 @@
     "url": "http://localhost:4000/KR-2021-22/seance/week5-data-and-ontologies",
     "relUrl": "/seance/week5-data-and-ontologies"
   },"27": {
-    "doc": "Week 6 - Ontological patterns",
-    "title": "Week 6 - Ontological patterns",
-    "content": "Objectifs: . Dans cette sixième leçon, nous verrons : . | Les résultats de l’exercice de modélisation . | Première rencontre avec SPARQL : trouver les données modélisées | . | Conception de l’ontologie : type de relation . | Simmétrique | Assymétrique | Inversé | Composite | . | Conception de l’ontologie : modèles | CIDOC-CRM : Première étape dans les CRM . | Extrapoler les modèles à partir des CRM : Modèles de données sémantiques de référence | . | . Revoir la séance . | Vous pouvez trouver le PDF de la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . ",
-    "url": "http://localhost:4000/KR-2021-22/seances/week6-ontological-patterns",
-    "relUrl": "/seances/week6-ontological-patterns"
-  },"28": {
     "doc": "Week 6 - Protégé",
     "title": "Week 6 - Protégé",
     "content": "Objectifs: . Dans cette sixième leçon, nous verrons : . | Protégé : comment l’utiliser pour créer une ontologie de base | Créer des instances et leur attribuer des propriétés | . Revoir la séance . | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week6-protege",
     "relUrl": "/seances/week6-protege"
-  },"29": {
+  },"28": {
     "doc": "Week 7 - CIDOC-CRM",
     "title": "Week 7 - CIDOC-CRM",
-    "content": "Objectifs: . Dans cette septième leçon, nous verrons : . | Les résultats de l’exercice de modélisation | Introduction à CIDOC-CRM : modélisation événementielle vs modélisation binaire | Conception de l’ontologie : type de relation . | Simmétrique | Assymétrique | Inversé | Composite | . | CRM patterns : événements | CRM patterns : temps | CRM patterns : objets phisiques | Extensions CRM: CRMdig, CRMgeo, CRMtex | Linked.art | . Revoir la séance . | Vous pouvez trouver le PDF de la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . | Bruseker, George, Nicola Carboni, and Anaïs Guillem. “Cultural heritage data management: the role of formal ontology and CIDOC CRM.” Heritage and Archaeology in the Digital Age (2017): 93-131. | . ",
+    "content": "Objectifs: . Dans cette septième leçon, nous verrons : . | Introduction à CIDOC-CRM : modélisation événementielle vs modélisation binaire | CRM patterns : événements | CRM patterns : temps | CRM patterns : influence | CRM patterns : objet matériel | CRM patterns : objet immatériel | . Revoir la séance . | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . | Bruseker, George, Nicola Carboni, and Anaïs Guillem. “Cultural heritage data management: the role of formal ontology and CIDOC CRM.” Heritage and Archaeology in the Digital Age (2017): 93-131. | . Exercice . Modélisez vos données en utilisant CIDOC-CRM. Utilisez Miro ou un autre outil pour créer un modèle graphique des données en utilisant CIDOC-CRM. Vous pouvez utiliser vos propres données ou, si vous n’avez pas de données à utiliser, vous pouvez utiliser cet échantillon de données comme exemple : . | Venus : échantillon des données sur Vénus utilisées dans le projet Visual Contagion. Les données rapportent des informations sur une œuvre d’art, son auteur (et des informations relatives) ainsi que l’emplacement actuel et le propriétaire de l’œuvre d’art. Téléchargez-le ici. Le format du fichier est CSV | . Le résultat de l’exercice doit être envoyé au enseignant avant le cours du jeudi. Si vous utilisez vos propres données, envoyez-les au enseignant avant le cours du jeudi, afin qu’il puisse mieux vous aider. Où trouver des ressources . | Documentation CIDOC-CRM | Modèles sémantiques développés par Swiss Art Research Infrastructure. | CIDOC-CRM Game. Un jeu développé pour vous apprendre la classe et les propriétés de CIDOC-CRM. | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week7-ontological-patterns-crm",
     "relUrl": "/seances/week7-ontological-patterns-crm"
+  },"29": {
+    "doc": "Week 8 - SPARQL",
+    "title": "Objectifs:",
+    "content": "Modélisation avec CIDOC-CRM : . | Comment commencer | Relier les entités entre elles | Définition et propriétés, où les chercher | . Interroger les données : . | Introduction à SPARQL | Éléments d’une requête | Requêtes de base utilisant les wikidata | Filtrage par le temps | Filtrage par langue | Filtrage à l’aide d’une chaîne de caractères contenue dans un littéral | Exploration des données : OPTIONAL | Naviguer sur le web des données . | Fédération avec wikidata | Fédération avec wikidata et BNF SPARQL endpoint | . | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#objectifs",
+    "relUrl": "/seances/week8-sparql#objectifs"
+  },"30": {
+    "doc": "Week 8 - SPARQL",
+    "title": "Revoir la séance",
+    "content": ". | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#revoir-la-s%C3%A9ance",
+    "relUrl": "/seances/week8-sparql#revoir-la-séance"
+  },"31": {
+    "doc": "Week 8 - SPARQL",
+    "title": "Lectures complémentaires",
+    "content": ". | DuCharme, Bob. Learning SPARQL: querying and updating with SPARQL 1.1. “ O’Reilly Media, Inc.”, 2013. | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#lectures-compl%C3%A9mentaires",
+    "relUrl": "/seances/week8-sparql#lectures-complémentaires"
+  },"32": {
+    "doc": "Week 8 - SPARQL",
+    "title": "Exercice",
+    "content": "Choisissez entre deux parmi les exercices suivants: . SPARQL sur les données de Wikidata . Lien SPARQL wikidata: https://query.wikidata.org . Créez une requête SPARQL qui SELECT toutes les personnes qui: . | sont nées en Suisse après 1600 Pour chacune d’entre elles, récupérez | leur nom en anglais | leur image | leur genre | leur lieu de naissance | leur identifiant de la Bibliothèque nationale de France | . astuce : voir les propriétés d’une personne suisse bien décrite, exemple : https://www.wikidata.org/wiki/Q59945 . Envoyez la requête SPARQL produite à l’enseignant avant mardi après-midi. SPARQL sur les données de la Bibliothèque nationale de France . Lien SPARQL BNF: https://data.bnf.fr/sparql/ Lien documentation modèle de données https://data.bnf.fr/fr/semanticweb . Créez une requête SPARQL qui SELECT tous les livres qui . | ont été publiés en Suisse Pour chacun récupérez | leur titre | leur sujet Limitez le résultat à 100. | . Envoyez la requête SPARQL produite à l’enseignant avant mardi après-midi. SPARQL sur les données du Getty . Lien SPARQL Getty: http://vocab.getty.edu/sparql Lien ontologie Getty: http://vocab.getty.edu/ontology . En utilisant le sujet &lt;http://vocab.getty.edu/ulan/500027184&gt; SELECT . | son nom | toutes les relations sociales documentées | sa date de naissance et de décès | . SPARQL sur les données Visual Contagions . Lien SPARQL Visual Contagions : http://128.199.62.98:3030 Modèle de données : VisualContagion.png . SELECT Tous les objets qui ont former or current owner &lt;http://lod.unige.ch/visualcontagions/actor/owner113&gt; et pour chacun d’eux trouvez: . | le temps où ils ont été produits | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#exercice",
+    "relUrl": "/seances/week8-sparql#exercice"
+  },"33": {
+    "doc": "Week 8 - SPARQL",
+    "title": "Où trouver des ressources",
+    "content": ". | CIDOC-CRM Class and properties declaration | CIDOC-CRM Ontologie en RDF | Wikidata Query Service Tutorial. | Wikidata SPARQL Tutorial. | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#o%C3%B9-trouver-des-ressources",
+    "relUrl": "/seances/week8-sparql#où-trouver-des-ressources"
+  },"34": {
+    "doc": "Week 8 - SPARQL",
+    "title": "Vocabularies",
+    "content": "L’utilisation de linked data vocabulaires dans le cadre du web sémantique permet de fixer le sens de notre modèle et d’en améliorer la réutilisabilité. Voici quelques vocabulaires intéressants pour notre domaine: . | Art and Architecture Thesaurus | Homosaurus | QUDT | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#vocabularies",
+    "relUrl": "/seances/week8-sparql#vocabularies"
+  },"35": {
+    "doc": "Week 8 - SPARQL",
+    "title": "Week 8 - SPARQL",
+    "content": " ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql",
+    "relUrl": "/seances/week8-sparql"
   }
 }
