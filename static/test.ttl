@@ -1,0 +1,58 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://unige.ch/example/> .
+
+
+<Nicola> rdf:type crm:E21_Person ;
+	crm:P55_has_former_location <Annecy> ;
+	crm:P107_is_current_or_former_member_of <DH_Unit> ;
+	crm:P107_is_current_or_former_member_of <Visual_Contagion> ;
+	rdfs:label "Nicola" .
+
+<Annecy> rdf:type crm:E53_Place ;
+	crm:P89_falls_within <France> .
+
+<France> rdf:type crm:E53_Place .
+
+<Simon>rdf:type crm:E21_Person ;
+	crm:P55_has_former_location <Neuchatel> ;
+	crm:P107_is_current_or_former_member_of <DH_Unit> ;
+	rdfs:label "Simon" . 
+
+<Neuchatel> rdf:type crm:E53_Place; 
+	crm:P89_falls_within <Switzerland> .
+
+<DH_Unit> rdf:type crm:E74_Group ;
+	crm:P2_has_type <Academic_unit> .
+
+<Academic_unit> a crm:E55_Type ;
+	rdfs:label "Academic Unit" .
+
+<Nyon> rdf:type crm:E53_Place; 
+	crm:P89_falls_within <Switzerland> .
+
+<Cedric> rdf:type crm:E21_Person ;
+	crm:P55_has_former_location <Nyon> ;
+	crm:P107_is_current_or_former_member_of <Distic> ;
+	rdfs:label "Cedric" ;
+	crm:P107_is_current_or_former_member_of <Visual_Contagion> .
+
+<Adrien> rdf:type crm:E21_Person ;
+	crm:P55_has_former_location <Geneve> ;
+	crm:P107_is_current_or_former_member_of <DH_Unit> ;
+	crm:P107_is_current_or_former_member_of <Visual_Contagion> ;
+	rdfs:label "Adrien" .
+
+<Geneve> rdf:type crm:E53_Place; 
+	crm:P89_falls_within <Switzerland> .
+
+<Switzerland> rdf:type crm:E53_Place .
+
+<Distic> rdf:type crm:E74_Group .
+
+<Visual_Contagion> rdf:type crm:E74_Group ;
+	crm:P2_has_type <Project> .
+
+<Project> a crm:E55_Type ;
+	rdfs:label "FNS Project" .
