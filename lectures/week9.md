@@ -31,8 +31,9 @@ Transformation des données:
 
 
 
-## Où trouver des ressources
+## Ressources
 
+- [test turtle file](../static/test.ttl)
 - [3M](http://139.91.183.3/3M/)
 - [X3ML](https://github.com/isl/x3ml)
 - [Venus XML](../static/venus.xml)
