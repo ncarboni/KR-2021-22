@@ -37,6 +37,7 @@ Transformation des données:
 - [X3ML](https://github.com/isl/x3ml)
 - [Venus XML](../static/venus.xml)
 - [Venus Schema](../static/visualContagions.png)
+- [Generator_policy](../static/generator_policy.xml)
 
 
 

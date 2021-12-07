@@ -1,0 +1,28 @@
+<generator_policy>
+
+	<generator name="objectURI" prefix="kr">
+		<pattern>object/{id}</pattern>
+	</generator>
+	<generator name="materialURI" prefix="kr">
+		<pattern>material/{id}</pattern>
+	</generator>
+	<generator name="typeURI" prefix="kr">
+		<pattern>type/{id}</pattern>
+	</generator>
+	<generator name="eventURI" prefix="kr">
+		<pattern>event/{text}/{id}</pattern>
+	</generator>
+
+	<generator name="personURI" prefix="kr">
+		<pattern>person/{id}</pattern>
+	</generator>
+
+
+	
+
+	<generator name="URIorUUID">
+		<custom generatorClass="gr.forth.URIorUUID">
+			<set-arg name="text"/>
+		</custom>
+	</generator>
+</generator_policy>
