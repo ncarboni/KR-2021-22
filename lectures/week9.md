@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Week 9 - SPARQL & Data Transformation
+title: Week 9 - SPARQL II
 permalink: /seances/week9-transformation
 parent: Séances
 nav_order: 9
@@ -12,11 +12,12 @@ nav_order: 9
 Révision des modèles CRM:
 - Domain et range
 
-SPARQL exercise 
-
-Révision des exercices SPARQL :
-- Comment trouver les propriétés et les classes
-- Exploration du graphe
+SPARQL exercise:
+- SPARQL Playground: Récupérer des propriétés de base
+- Récupération de données sur le endpoint SPARQL de Wikidata 
+- SPARQL de BNF : comment découvrir les informations du modèle de données ?
+- Récupération de données à partir du endpoint SPARQL de la BNF
+- Traverser le graphe : le cas de l'endpoint SPARQL de Getty
 
 Transformation des données:
 - Introduction à 3M
@@ -24,16 +25,14 @@ Transformation des données:
 
 ## Revoir la séance
 
-- Vous pouvez trouver la présentation [ici](#) 
-- Vous pouvez trouver l'enregistrement de la séance [ici](#)
-
-
-
+- Vous pouvez trouver la présentation [ici](../static/KR9.pdf) 
+- Vous pouvez trouver l'enregistrement de la séance [ici](https://mediaserver.unige.ch/play/165213)
 
 
 ## Ressources
 
-- [test turtle file](../static/test.ttl)
+- [Test turtle file for Playground](../static/test.ttl)
+- [SPARQL Playground](../static/test.ttl)
 - [3M](http://139.91.183.3/3M/)
 - [X3ML](https://github.com/isl/x3ml)
 - [Venus XML](../static/venus.xml)
