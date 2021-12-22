@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Week 11 - Q&A 
+title: Week 11 - transformation de données - Q&A
 permalink: /seances/week11-questions-answers
 parent: Séances
 nav_order: 11

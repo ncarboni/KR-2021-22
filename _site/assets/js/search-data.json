@@ -54,165 +54,243 @@
     "relUrl": "/Description/"
   },"9": {
     "doc": "Announcements",
+    "title": "Week 11 Announcement",
+    "content": "Dec 21 - 21 Le cours est terminé. Le matériel pour valider le cours doit être envoyé à l’enseignant par email ou Discord avant la fin du mois de janvier. ",
+    "url": "http://localhost:4000/KR-2021-22/announcements/",
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Announcements",
     "title": "Week 6 Announcement",
     "content": "Nov 9 - 21 La classe du 16 novembre est annulée. ",
     "url": "http://localhost:4000/KR-2021-22/announcements/",
     "relUrl": "/announcements/"
-  },"10": {
+  },"11": {
     "doc": "Announcements",
     "title": "Week 5 Announcement",
     "content": "Oct 27 - 21 Créez un compte sur Webprotege et partagez-le avec l’enseignant. Pendant le prochain cours, nous travaillerons ensemble sur l’interface web de Protégé. ",
     "url": "http://localhost:4000/KR-2021-22/announcements/",
     "relUrl": "/announcements/"
-  },"11": {
+  },"12": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": " ",
     "url": "http://localhost:4000/KR-2021-22/announcements/",
     "relUrl": "/announcements/"
-  },"12": {
+  },"13": {
     "doc": "Calendrier",
     "title": "Calendar",
     "content": " ",
     "url": "http://localhost:4000/KR-2021-22/calendar/#calendar",
     "relUrl": "/calendar/#calendar"
-  },"13": {
+  },"14": {
     "doc": "Calendrier",
     "title": "Introduction au Web Sémantique",
     "content": "Sep 28 Introduction générale Slides, Video Oct 5 Pourquoi la modélisation Slides, Video Oct 12 RDF premiers pas Slides, Video Oct 19 RDF and RDFS Slides Oct 26 Modélisation des données et ontologies Slides, Video Nov 9 Protégé et ontologies Video ",
     "url": "http://localhost:4000/KR-2021-22/calendar/#introduction-au-web-s%C3%A9mantique",
     "relUrl": "/calendar/#introduction-au-web-sémantique"
-  },"14": {
+  },"15": {
     "doc": "Calendrier",
     "title": "Réutilisation des données",
-    "content": "Nov 23 La modélisation des données dans les sciences humaines : CIDOC-CRM Slides, Video Nov 30 Interrogation des données : SPARQL Slides, Video Dic 7 Transformation des données I Slides, Video Dic 14 ransformation des données II Slides, Video ",
+    "content": "Nov 23 La modélisation des données dans les sciences humaines : CIDOC-CRM Slides, Video Nov 30 Interrogation des données : SPARQL Slides, Video Dic 7 Interrogation des données : SPARQL II Slides, Video Dic 14 Transformation des données Slides, Video Dic 21 Questions et réponses sur la transformation de données Slides, Video ",
     "url": "http://localhost:4000/KR-2021-22/calendar/#r%C3%A9utilisation-des-donn%C3%A9es",
     "relUrl": "/calendar/#réutilisation-des-données"
-  },"15": {
+  },"16": {
     "doc": "Calendrier",
     "title": "Calendrier",
     "content": " ",
     "url": "http://localhost:4000/KR-2021-22/calendar/",
     "relUrl": "/calendar/"
-  },"16": {
+  },"17": {
     "doc": "Représentation des connaissances",
     "title": "Représentation des connaissances 2021-22",
     "content": "Université de Genève - Automne 2021 . ",
     "url": "http://localhost:4000/KR-2021-22/#repr%C3%A9sentation-des-connaissances-2021-22",
     "relUrl": "/#représentation-des-connaissances-2021-22"
-  },"17": {
+  },"18": {
     "doc": "Représentation des connaissances",
-    "title": "Week 6 Announcement",
-    "content": "Nov 9 - 21 La classe du 16 novembre est annulée. Announcements . ",
+    "title": "Week 11 Announcement",
+    "content": "Dec 21 - 21 Le cours est terminé. Le matériel pour valider le cours doit être envoyé à l’enseignant par email ou Discord avant la fin du mois de janvier. Announcements . ",
     "url": "http://localhost:4000/KR-2021-22/",
     "relUrl": "/"
-  },"18": {
+  },"19": {
     "doc": "Représentation des connaissances",
     "title": "Représentation des connaissances",
     "content": " ",
     "url": "http://localhost:4000/KR-2021-22/",
     "relUrl": "/"
-  },"19": {
+  },"20": {
     "doc": "Représentation des connaissances",
     "title": "Université de Genève - Automne 2021",
     "content": "Enseignant : Nicola Carboni . Quand : Chaque mardi de 16h à 18h . Où : B 315 &amp; Zoom (lien disponible sur Discord) . Code : 32M7134 . Description du cours : le séminaire introduira les étudiants en sciences humaines dans le domaine de la représentation des connaissances, une nouvelle méthode pour structurer, enrichir, et relier ensemble des informations, des sources et des documents en utilisant des outils et des méthodes numériques. En utilisant un mélange de travail théorique et d’exercices pratiques, le cours se concentrera sur les méthodologies, les défis et les techniques pour la représentation de l’information et de la connaissance extraites de documents, de livres de bases de données ou d’autres sources sous forme de données liées. L’objectif du séminaire est de fournir aux étudiants en humanités numériques et en sciences humaines la compréhension théorique nécessaire, ainsi que l’expérience pratique, dans la discipline, en les familiarisant avec les outils et les techniques de création et de partage des informations sous forme de linked data. Pré-Requis : Ce cours est conçu pour des étudiants en sciences humaines: aucune compétence préalable en informatique n’est requise. Acquis : Premières notions solides de Semantic Web et Linked Data (RDF/RDFS), développement d’une ontologie, maîtrise des données et des ontologies dans le domaine des humanités numériques, maîtrise du langage de mapping (X3ML), transformation de données tabulaires en RDF, interrogation d’un graphe de connaissances (SPARQL), hébergement d’un graphe de connaissances dans un serveur de graphes RDF (fuseki / Researchspace) . ",
     "url": "http://localhost:4000/KR-2021-22/#universit%C3%A9-de-gen%C3%A8ve---automne-2021",
     "relUrl": "/#université-de-genève---automne-2021"
-  },"20": {
+  },"21": {
     "doc": "Séances",
     "title": "Séances",
     "content": " ",
     "url": "http://localhost:4000/KR-2021-22/modules/",
     "relUrl": "/modules/"
-  },"21": {
+  },"22": {
     "doc": "Textbooks",
     "title": "Textbooks",
     "content": "Ce cours s’adresse spécifiquement aux étudiants en sciences humaines, ce qui a pour conséquence qu’il n’existe pas un manuel qui seul convienne à ce cours. Par contre, il existe plusieurs textes et articles dont certaines sections sont tout à fait pertinentes. Voici une liste des manuels qui seront utilisés pendant le cours . | Sowa, John F. Knowledge representation: logical, philosophical and computational foundations. Brooks/Cole Publishing Co., 1999. | Varzi, Achille C. Ontologie. Paris: les Ed. d’Ithaque, 2010 | Mumford, Stephen. Metaphysics: A very short introduction. Vol. 326. Oxford University Press, 2012. | Guarino, Nicola, and Christopher Welty. 2002. “Identity and Subsumption.” In The Semantics of Relationships, 111–26. Dordrecht: Springer. | Hendler, James, Fabien Gandon, and Dean Allemang. Semantic Web for the Working Ontologist: Effective Modeling for Linked Data, RDFS, and OWL. Morgan &amp; Claypool, 2020. | DuCharme, Bob. Learning SPARQL: querying and updating with SPARQL 1.1. “ O’Reilly Media, Inc.”, 2013. | Bruseker, G., Carboni, N., &amp; Guillem, A. (2017). Cultural heritage data management: the role of formal ontology and CIDOC CRM. Heritage and Archaeology in the Digital Age, 93-131. | . ",
     "url": "http://localhost:4000/KR-2021-22/textbooks/",
     "relUrl": "/textbooks/"
-  },"22": {
+  },"23": {
     "doc": "Week 1 - Introduction générale",
     "title": "Week 1 - Introduction générale",
     "content": "Objectifs: . Dans la première leçon du cours vous apprendrez . | Introduction générale au cours | La représentation des connaissances : ce qu’elle est et comment elle est utile. | Comment nous pouvons répondre aux problèmes de représentation des connaissances : accent sur l’ontologie. | “Qu’est-ce qu’il y a ?” : accent sur la complexité des descriptions | De quel type d’entités parlons-nous ? . | Objets concrets et abstraits | Événements | Rôles | imprécision | . | Pourquoi est-ce si difficile ? L’accent sur perception, la classification et les diversités culturelles. | Pourquoi est-il important de le savoir si nous voulons formaliser nos connaissances ? . | Exemples d’images, patrimoine immatériel, traditions, performances, architecture, arts, archives | . | . Revoir la séance . | Vous pouvez trouver le PDF de la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . | Chapter 2 “Ontology” from: Sowa, John F. Knowledge representation: logical, philosophical and computational foundations. Brooks/Cole Publishing Co., 1999. | Varzi, Achille C. Ontologie. Paris: les Ed. d’Ithaque, 2010. Print. | Mumford, Stephen. Metaphysics: A very short introduction. Vol. 326. Oxford University Press, 2012. | Guarino, Nicola, and Christopher Welty. 2002. “Identity and Subsumption.” In The Semantics of Relationships, 111–26. Dordrecht: Springer. | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week1-introduction-g%C3%A9n%C3%A9rale",
     "relUrl": "/seances/week1-introduction-générale"
-  },"23": {
+  },"24": {
+    "doc": "Week 10 - Transformation des données",
+    "title": "Objectifs:",
+    "content": ". | Transformation des données | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week10-transformation-donn%C3%A9es#objectifs",
+    "relUrl": "/seances/week10-transformation-données#objectifs"
+  },"25": {
+    "doc": "Week 10 - Transformation des données",
+    "title": "Revoir la séance",
+    "content": ". | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week10-transformation-donn%C3%A9es#revoir-la-s%C3%A9ance",
+    "relUrl": "/seances/week10-transformation-données#revoir-la-séance"
+  },"26": {
+    "doc": "Week 10 - Transformation des données",
+    "title": "Ressources",
+    "content": ". | 3M | X3ML | Venus XML | Venus Schema | Generator_policy | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week10-transformation-donn%C3%A9es#ressources",
+    "relUrl": "/seances/week10-transformation-données#ressources"
+  },"27": {
+    "doc": "Week 10 - Transformation des données",
+    "title": "Week 10 - Transformation des données",
+    "content": " ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week10-transformation-donn%C3%A9es",
+    "relUrl": "/seances/week10-transformation-données"
+  },"28": {
+    "doc": "Week 11 - transformation de données - Q&A",
+    "title": "Objectifs:",
+    "content": ". | Questions et réponses : . | Transformation de données : CSV vers XML | Transformation de données : utilisation 3M/X3ML à partir de la ligne de commande | Transformation de données: création d’URI et comment utiliser le generator policy dans 3M/X3ML | . | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week11-questions-answers#objectifs",
+    "relUrl": "/seances/week11-questions-answers#objectifs"
+  },"29": {
+    "doc": "Week 11 - transformation de données - Q&A",
+    "title": "Revoir la séance",
+    "content": ". | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week11-questions-answers#revoir-la-s%C3%A9ance",
+    "relUrl": "/seances/week11-questions-answers#revoir-la-séance"
+  },"30": {
+    "doc": "Week 11 - transformation de données - Q&A",
+    "title": "Ressources",
+    "content": ". | 3M | X3ML | Venus XML | Venus Schema | Generator_policy | Mapping X£ML réalisé pendant le cours | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week11-questions-answers#ressources",
+    "relUrl": "/seances/week11-questions-answers#ressources"
+  },"31": {
+    "doc": "Week 11 - transformation de données - Q&A",
+    "title": "Week 11 - transformation de données - Q&A",
+    "content": " ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week11-questions-answers",
+    "relUrl": "/seances/week11-questions-answers"
+  },"32": {
     "doc": "Week 2 - Pourquoi la modélisation",
     "title": "Week 2 - Pourquoi la modélisation",
     "content": "Objectifs: . Au cours de la deuxième leçon, nous nous concentrerons sur : . | revoir le contenu introduit dans la première leçon : . | les complexités des objets, événements et lieux concrets et abstraits | . | introduction aux objets sociaux : . | les objets sociaux dans notre pratique quotidienne : contrats, mariages | complexité de la description en raison des limites linguistiques et culturelles | . | comment décrire : introduction à la modélisation : modélisation informelle et comment nous les utilisons (du modèle législatif aux modèles de classification des bibliothèques, des archives et des musées) | modélisation formelle, introduction et histoire : . | réseau sémantique, frames | . | l’hiver de l’IA : causes et abandon des méthodes de représentation des connaissances | world wide web : retour au problème initial . | pourquoi : bref rappel du problème de la catégorisation linguistique | . | surmonter les problèmes : le web sémantique | . Revoir la séance . | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . | Chapter 1, 2 and 3 from: Hendler, James, Fabien Gandon, and Dean Allemang. Semantic Web for the Working Ontologist: Effective Modeling for Linked Data, RDFS, and OWL. Morgan &amp; Claypool, 2020. | Chapter 2 from: DuCharme, Bob. Learning SPARQL: querying and updating with SPARQL 1.1. “ O’Reilly Media, Inc.”, 2013. | . ",
     "url": "http://localhost:4000/KR-2021-22/seance/week2-pourquoi-la-mod%C3%A9lisation",
     "relUrl": "/seance/week2-pourquoi-la-modélisation"
-  },"24": {
+  },"33": {
     "doc": "Week 3 - RDF premiers pas",
     "title": "Week 3 - RDF premiers pas",
     "content": "Objectifs: . Au cours de la troisième leçon, nous nous concentrons sur : . | revoir le contenu introduit dans la première leçon : . | le problème du web interconnecté et de la recherche linguistique. Web sémantique et RDF | . | Revue du modèle de données : comprendre les triples en regardant les données existantes (tableaux) | Organiser la connaissance en triples | Exemples de RDF en pratique | Exercice de modélisation : formaliser les connaissances sur la bibliothèque de l’université de Genève en triples. | Trouver et décrire les triples : IRIs, URIs, URNs | Pourquoi les IRIs : retrouver, interconnecter et fusionner des informations. | comment enregistrer une chaîne de caractères : Literals | . Revoir la séance . | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . ",
     "url": "http://localhost:4000/KR-2021-22/seance/week3-rdf-premiers-pas",
     "relUrl": "/seance/week3-rdf-premiers-pas"
-  },"25": {
+  },"34": {
     "doc": "Week 4 - RDF and RDFS",
     "title": "Week 4 - RDF and RDFS",
     "content": "Objectifs: . Au cours de la quatrième leçon, nous nous concentrons sur : . | Revoir le contenu introduit dans la première leçon : . | La structure RDF, d’où vient le sujet, le prédicat et l’objet : exemple à partir d’un document XML/TEI | Trouver et décrire les triples : IRIs, URIs, URNs | Pourquoi les IRIs : retrouver, interconnecter et fusionner des informations. | . | Chaîne d’information : relier les nœuds. Qu’en est-il du littéral ? | Limites de la modélisation en RDF | Nœuds vides : faut-il les utiliser ? | Besoin d’une structure plus formelle : sameness | Présentation du schéma RDF | Relations entre classes et sous-classes RDF | Relation taxonomique et transivité | Propriétés et sous-propriétés : domaine et étendue | Exercice de modélisation : modélisons ensemble les classes nécessaires pour décrire un livre physique, numérique et audio moderne. | . Revoir la séance . | Vous pouvez trouver la présentation ici | L’exercice de modélisation est partagé avec vous tous sur Miro. Envoyez-moi un e-mail si vous ne réussissez pas à y accéder. | Malheureusement, l’enregistrement vidéo de cette session n’est pas disponible. | . ",
     "url": "http://localhost:4000/KR-2021-22/seance/week4-rdf-and-rdfs",
     "relUrl": "/seance/week4-rdf-and-rdfs"
-  },"26": {
+  },"35": {
     "doc": "Week 5 - Modélisation des données et ontologies",
     "title": "Week 5 - Modélisation des données et ontologies",
     "content": "Objectifs: . Au cours de la cinquième leçon, nous nous concentrons sur : . | Revoir le contenu introduit dans la première leçon : . | La structure RDF, IRIs, relier les nœuds, nœuds vides, literal | . | Relations entre classes et sous-classes RDF | La théorie des ensembles et son application à la modélisation des données : sous-ensemble, intersection, instances | Définition des classes : propriétés essentielles | Définition des classes : transitivité et problème de la catégorisation | Propriétés et sous-propriétés : transitivité et domaine/range | Sous-propriétés et taxonomie | Besoin de plus de formalisation : l’ontologie | Qu’est-ce qu’une ontologie ? | Types d’ontologies | Visualisation d’une ontologie | Exercice de modélisation : Utilisation de Web Protégé pour formaliser les classes et propriétés nécessaires à la description d’un livre physique, numérique et audio moderne. | . Revoir la séance . | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . | Chapter 3 and 8 from: Hendler, James, Fabien Gandon, and Dean Allemang. Semantic Web for the Working Ontologist: Effective Modeling for Linked Data, RDFS, and OWL. Morgan &amp; Claypool, 2020. | . ",
     "url": "http://localhost:4000/KR-2021-22/seance/week5-data-and-ontologies",
     "relUrl": "/seance/week5-data-and-ontologies"
-  },"27": {
+  },"36": {
     "doc": "Week 6 - Protégé",
     "title": "Week 6 - Protégé",
     "content": "Objectifs: . Dans cette sixième leçon, nous verrons : . | Protégé : comment l’utiliser pour créer une ontologie de base | Créer des instances et leur attribuer des propriétés | . Revoir la séance . | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week6-protege",
     "relUrl": "/seances/week6-protege"
-  },"28": {
+  },"37": {
     "doc": "Week 7 - CIDOC-CRM",
     "title": "Week 7 - CIDOC-CRM",
     "content": "Objectifs: . Dans cette septième leçon, nous verrons : . | Introduction à CIDOC-CRM : modélisation événementielle vs modélisation binaire | CRM patterns : événements | CRM patterns : temps | CRM patterns : influence | CRM patterns : objet matériel | CRM patterns : objet immatériel | . Revoir la séance . | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . Lectures complémentaires . | Bruseker, George, Nicola Carboni, and Anaïs Guillem. “Cultural heritage data management: the role of formal ontology and CIDOC CRM.” Heritage and Archaeology in the Digital Age (2017): 93-131. | . Exercice . Modélisez vos données en utilisant CIDOC-CRM. Utilisez Miro ou un autre outil pour créer un modèle graphique des données en utilisant CIDOC-CRM. Vous pouvez utiliser vos propres données ou, si vous n’avez pas de données à utiliser, vous pouvez utiliser cet échantillon de données comme exemple : . | Venus : échantillon des données sur Vénus utilisées dans le projet Visual Contagion. Les données rapportent des informations sur une œuvre d’art, son auteur (et des informations relatives) ainsi que l’emplacement actuel et le propriétaire de l’œuvre d’art. Téléchargez-le ici. Le format du fichier est CSV | . Le résultat de l’exercice doit être envoyé au enseignant avant le cours du jeudi. Si vous utilisez vos propres données, envoyez-les au enseignant avant le cours du jeudi, afin qu’il puisse mieux vous aider. Où trouver des ressources . | Documentation CIDOC-CRM | Modèles sémantiques développés par Swiss Art Research Infrastructure. | CIDOC-CRM Game. Un jeu développé pour vous apprendre la classe et les propriétés de CIDOC-CRM. | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week7-ontological-patterns-crm",
     "relUrl": "/seances/week7-ontological-patterns-crm"
-  },"29": {
+  },"38": {
     "doc": "Week 8 - SPARQL",
     "title": "Objectifs:",
     "content": "Modélisation avec CIDOC-CRM : . | Comment commencer | Relier les entités entre elles | Définition et propriétés, où les chercher | . Interroger les données : . | Introduction à SPARQL | Éléments d’une requête | Requêtes de base utilisant les wikidata | Filtrage par le temps | Filtrage par langue | Filtrage à l’aide d’une chaîne de caractères contenue dans un littéral | Exploration des données : OPTIONAL | Naviguer sur le web des données . | Fédération avec wikidata | Fédération avec wikidata et BNF SPARQL endpoint | . | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#objectifs",
     "relUrl": "/seances/week8-sparql#objectifs"
-  },"30": {
+  },"39": {
     "doc": "Week 8 - SPARQL",
     "title": "Revoir la séance",
     "content": ". | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#revoir-la-s%C3%A9ance",
     "relUrl": "/seances/week8-sparql#revoir-la-séance"
-  },"31": {
+  },"40": {
     "doc": "Week 8 - SPARQL",
     "title": "Lectures complémentaires",
     "content": ". | DuCharme, Bob. Learning SPARQL: querying and updating with SPARQL 1.1. “ O’Reilly Media, Inc.”, 2013. | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#lectures-compl%C3%A9mentaires",
     "relUrl": "/seances/week8-sparql#lectures-complémentaires"
-  },"32": {
+  },"41": {
     "doc": "Week 8 - SPARQL",
     "title": "Exercice",
     "content": "Choisissez entre deux parmi les exercices suivants: . SPARQL sur les données de Wikidata . Lien SPARQL wikidata: https://query.wikidata.org . Créez une requête SPARQL qui SELECT toutes les personnes qui: . | sont nées en Suisse après 1600 Pour chacune d’entre elles, récupérez | leur nom en anglais | leur image | leur genre | leur lieu de naissance | leur identifiant de la Bibliothèque nationale de France | . astuce : voir les propriétés d’une personne suisse bien décrite, exemple : https://www.wikidata.org/wiki/Q59945 . Envoyez la requête SPARQL produite à l’enseignant avant mardi après-midi. SPARQL sur les données de la Bibliothèque nationale de France . Lien SPARQL BNF: https://data.bnf.fr/sparql/ Lien documentation modèle de données https://data.bnf.fr/fr/semanticweb . Créez une requête SPARQL qui SELECT tous les livres qui . | ont été publiés en Suisse Pour chacun récupérez | leur titre | leur sujet Limitez le résultat à 100. | . Envoyez la requête SPARQL produite à l’enseignant avant mardi après-midi. SPARQL sur les données du Getty . Lien SPARQL Getty: http://vocab.getty.edu/sparql Lien ontologie Getty: http://vocab.getty.edu/ontology . En utilisant le sujet &lt;http://vocab.getty.edu/ulan/500027184&gt; SELECT . | son nom | toutes les relations sociales documentées | sa date de naissance et de décès | . SPARQL sur les données Visual Contagions . Lien SPARQL Visual Contagions : http://128.199.62.98:3030 Modèle de données : VisualContagion.png . SELECT Tous les objets qui ont former or current owner &lt;http://lod.unige.ch/visualcontagions/actor/owner113&gt; et pour chacun d’eux trouvez: . | le temps où ils ont été produits | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#exercice",
     "relUrl": "/seances/week8-sparql#exercice"
-  },"33": {
+  },"42": {
     "doc": "Week 8 - SPARQL",
     "title": "Où trouver des ressources",
     "content": ". | CIDOC-CRM Class and properties declaration | CIDOC-CRM Ontologie en RDF | Wikidata Query Service Tutorial. | Wikidata SPARQL Tutorial. | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#o%C3%B9-trouver-des-ressources",
     "relUrl": "/seances/week8-sparql#où-trouver-des-ressources"
-  },"34": {
+  },"43": {
     "doc": "Week 8 - SPARQL",
     "title": "Vocabularies",
     "content": "L’utilisation de linked data vocabulaires dans le cadre du web sémantique permet de fixer le sens de notre modèle et d’en améliorer la réutilisabilité. Voici quelques vocabulaires intéressants pour notre domaine: . | Art and Architecture Thesaurus | Homosaurus | QUDT | . ",
     "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql#vocabularies",
     "relUrl": "/seances/week8-sparql#vocabularies"
-  },"35": {
+  },"44": {
     "doc": "Week 8 - SPARQL",
     "title": "Week 8 - SPARQL",
     "content": " ",
     "url": "http://localhost:4000/KR-2021-22/seances/week8-sparql",
     "relUrl": "/seances/week8-sparql"
+  },"45": {
+    "doc": "Week 9 - SPARQL II",
+    "title": "Objectifs:",
+    "content": "Révision des modèles CRM: . | Domain et range | . SPARQL exercise: . | SPARQL Playground: Récupérer des propriétés de base | Récupération de données sur le endpoint SPARQL de Wikidata | SPARQL de BNF : comment découvrir les informations du modèle de données ? | Récupération de données à partir du endpoint SPARQL de la BNF | Traverser le graphe : le cas de l’endpoint SPARQL de Getty | . Transformation des données: . | Introduction à 3M | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week9-transformation#objectifs",
+    "relUrl": "/seances/week9-transformation#objectifs"
+  },"46": {
+    "doc": "Week 9 - SPARQL II",
+    "title": "Revoir la séance",
+    "content": ". | Vous pouvez trouver la présentation ici | Vous pouvez trouver l’enregistrement de la séance ici | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week9-transformation#revoir-la-s%C3%A9ance",
+    "relUrl": "/seances/week9-transformation#revoir-la-séance"
+  },"47": {
+    "doc": "Week 9 - SPARQL II",
+    "title": "Ressources",
+    "content": ". | Test turtle file for Playground | SPARQL Playground | 3M | X3ML | Venus XML | Venus Schema | Generator_policy | . ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week9-transformation#ressources",
+    "relUrl": "/seances/week9-transformation#ressources"
+  },"48": {
+    "doc": "Week 9 - SPARQL II",
+    "title": "Week 9 - SPARQL II",
+    "content": " ",
+    "url": "http://localhost:4000/KR-2021-22/seances/week9-transformation",
+    "relUrl": "/seances/week9-transformation"
   }
 }
