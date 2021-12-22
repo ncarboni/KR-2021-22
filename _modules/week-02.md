@@ -13,9 +13,13 @@ Nov 30
   : [Slides](../slides/KR8.pdf), [Video](https://mediaserver.unige.ch/play/164037)
 
 Dic 7
-: [Transformation des données I](#)
-  : [Slides](#), [Video](#)
+: [Interrogation des données : SPARQL II](#)
+  : [Slides](../slides/KR9.pdf), [Video](https://mediaserver.unige.ch/play/165213)
 
 Dic 14
-: [ransformation des données II](#)
-  : [Slides](#), [Video](#)
+: [Transformation des données](#)
+  : [Slides](../slides/KR10.pdf), [Video](https://mediaserver.unige.ch/play/165952)
+
+Dic 21
+: [Questions et réponses sur la transformation de données](#)
+  : [Slides](../slides/KR11.pdf), [Video](https://mediaserver.unige.ch/play/167050)
