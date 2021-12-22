@@ -29,7 +29,7 @@ nav_order: 11
 - [Venus XML](../static/venus.xml)
 - [Venus Schema](../static/visualContagions.png)
 - [Generator_policy](../static/generator_policy.xml)
-- [Mapping X£ML réalisé pendant le cours](../static/mapping_course.zip)
+- [Mapping X3ML réalisé pendant le cours](../static/mapping_course.zip)
 
 
 
